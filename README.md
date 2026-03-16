@@ -150,7 +150,7 @@ Incident Management     ████████████████░░�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Prakash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandprakash-000999ap)
 [![Gmail](https://img.shields.io/badge/Gmail-anandprakash000999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandprakash000999@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%209335013854-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919335013854)
+
 [![Location](https://img.shields.io/badge/Location-Kannauj%2C%20UP%2C%20India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kannauj,UP,India)
 
 </div>
