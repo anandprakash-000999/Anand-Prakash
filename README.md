@@ -31,7 +31,6 @@ Role        : IT Support / Technical Support Engineer
 Experience  : 1+ Years
 Location    : Tirwa, Kannauj, Uttar Pradesh, India
 Email       : anandprakash000999@gmail.com
-Phone       : +91 9335013854
 Focus       : Enterprise IT Support | System Administration | Networking
 ```
 
