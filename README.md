@@ -28,7 +28,7 @@
 ```yaml
 Name        : Anand Prakash
 Role        : IT Support / Technical Support Engineer
-Experience  : 1+ Years
+Experience  : 1.5+ Years
 Location    : Tirwa, Kannauj, Uttar Pradesh, India
 Email       : anandprakash000999@gmail.com
 Focus       : Enterprise IT Support | System Administration | Networking
